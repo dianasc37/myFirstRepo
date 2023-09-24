@@ -1,0 +1,3 @@
+"recordar no poner .txt a un archivo que ya es .txt"
+"dormir 7 horas al dia como minimo"
+"hacer compra con los bonos"
